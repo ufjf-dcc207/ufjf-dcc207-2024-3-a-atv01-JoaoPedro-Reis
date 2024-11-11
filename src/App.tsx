@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import './App.css'
 import Disciplina from './Disciplina'
 
@@ -9,6 +10,10 @@ function App() {
     <Disciplina/>
     </div>
   )
+=======
+function App() {
+  return <h1>Hello World</h1>;
+>>>>>>> limpa
 }
 
-export default App
+export default App;
